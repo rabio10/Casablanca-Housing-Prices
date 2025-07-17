@@ -1,5 +1,6 @@
 # Preprocessing 
 after preprocessing the data scrapped from Mubawab website, here's a snippet of the .xlsx file obtained : 
+( you can see more about scraping in a separate repo here [Web-Scraping-Mubawab.ma](https://github.com/rabio10/Web-Scraping-Mubawab.ma)
 
 ## This is the features (X)
 
@@ -37,3 +38,6 @@ After outlier removal:
   ```
 ## Diagram of Actual vs Predicted prices
 ![Diagram of Actual vs Predicted prices](image.png)
+
+# Upcoming 
+getting insights using the model and analyse housing in casablanca.
